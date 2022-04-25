@@ -1,0 +1,17 @@
+site_name: Metropolis wet en regelgeving
+site_url: https://Elitesniper10.github.io/Metropolis-wetboek/
+site_description: 'Wet en regelgeving van Metropolis roleplay'
+site_author: 'Metropolis'
+
+# Copyright
+copyright: Copyright &copy; 2019 - 2022 MetropolisRP
+
+# Google Analytics
+google_analytics: ['G-RNXFEZ5BE6', 'Wetboek.metropolis.com']
+
+# Congiguration
+theme:
+  name: material
+#   features:
+#     - navigation.tabs
+
